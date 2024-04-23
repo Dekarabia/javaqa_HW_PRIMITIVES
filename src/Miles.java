@@ -4,6 +4,6 @@ public class Miles {
         int bonus = 20;
         int mile = cost / bonus;
 
-        System.out.println("При покупке билета стоимостью " + cost + " руб., Ваш бонус составит " + mile + " бонусных миль.");
+        System.out.println("При покупке билета вам будет начислено" + mile + "миль");
     }
 }
